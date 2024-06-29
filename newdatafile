@@ -1,0 +1,24 @@
+{
+        "names": [
+                {
+                        "firstname": "govardhan",
+                        "secondname": "kosgi",
+                        "age": 23
+                },
+                {
+                        "firstname": "venktesh",
+                        "secondname": "kavali",
+                        "age": 24
+                },
+                {
+                        "firstname": "bheemulu",
+                        "secondname": "mothkulakunta",
+                        "age": 25
+                },
+                {
+                        "firstname": "sandeep",
+                        "secondname": "dasari",
+                        "age": 26
+                }
+        ]
+}
